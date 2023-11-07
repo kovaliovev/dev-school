@@ -1,0 +1,12 @@
+{
+  "name": "dev-school",
+  "version": "1.0.0",
+  "description": "Home assignments from the dev-school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Evgheniy Kovaliov <kovaliov.evgeniy11@gmail.com>",
+  "license": "MIT"
+}
